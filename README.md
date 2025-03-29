@@ -5,7 +5,6 @@ Project name - User Management Application
 Project Overview
 
 This is a User Management Application that allows user to -
-
 Log in using email and password by mock authentication via Reqres API.
 View a paginated list of users.
 Edit user details on a separate Edit User page.
